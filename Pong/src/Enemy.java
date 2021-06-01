@@ -8,6 +8,7 @@ public class Enemy extends Entity{
 		this.y = y;
 		this.width = width;
 		this.height = height;
+		//resolvendo o problema
 	}
 	public void tick() {
 		
